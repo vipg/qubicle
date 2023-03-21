@@ -1,2 +1,2 @@
-conposer install <br>
+composer install <br>
 php artisan serve
